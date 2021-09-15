@@ -1,0 +1,5 @@
+package com.eduin.creditcard.model;
+
+public class CreditCard {
+
+}

@@ -1,0 +1,5 @@
+package com.eduin.creditscore.controllers;
+
+public class CreditScoreController {
+
+}

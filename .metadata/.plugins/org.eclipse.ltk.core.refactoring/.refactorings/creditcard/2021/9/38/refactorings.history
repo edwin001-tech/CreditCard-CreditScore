@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.eduin.creditcard.creditcard&apos; to &apos;com.eduin.creditcard&apos;&#x0A;- Original project: &apos;creditcard&apos;&#x0A;- Original element: &apos;creditcard/src/main/java/com.eduin.creditcard.creditcard&apos;&#x0A;- Renamed element: &apos;creditcard/src/main/java/com.eduin.creditcard&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.eduin.creditcard.creditcard&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.eduin.creditcard.creditcard" name="com.eduin.creditcard" qualified="false" references="true" stamp="1631742709169" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package com.eduin.creditcard.controllers;
+
+public class CreditCardController {
+
+}
