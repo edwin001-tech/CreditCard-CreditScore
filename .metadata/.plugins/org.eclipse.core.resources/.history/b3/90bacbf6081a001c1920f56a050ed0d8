@@ -1,0 +1,7 @@
+spring.datasource.url=jdbc:mysql://docker-mysql:3306/creditdb
+spring.datasource.username=eduin
+spring.datasource.password=password
+spring.jpa.show-sql=true
+
+server.servlet.context-path=/creditcard
+server.port=9090

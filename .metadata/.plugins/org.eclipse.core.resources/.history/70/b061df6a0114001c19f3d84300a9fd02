@@ -1,5 +1,0 @@
-package com.eduin.creditscore.repos;
-
-public interface CreditScoreRepo {
-
-}

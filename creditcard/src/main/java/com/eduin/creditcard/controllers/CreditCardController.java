@@ -29,7 +29,7 @@ public class CreditCardController {
 	}
 
 	private int getScore(String ssn) {
-		CreditScore creditScore = restTemplate.getForObject("http://localhost:8080/creditscore/creditscores/" + ssn, CreditScore.class); 
+		CreditScore creditScore = restTemplate.getForObject("http://creditscore-app:8080/creditscore/creditscores/" + ssn, CreditScore.class); 
 		return creditScore.getScore();
 	}
 
